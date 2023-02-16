@@ -6,9 +6,14 @@ header {
 
 main {
     background-color: lightgray;
+    padding: 1em;
 }
 
 html {
     background-image: url(record.png);
     background-repeat: repeat;
+}
+
+body {
+    margin: 0;
 }
