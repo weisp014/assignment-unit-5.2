@@ -1,15 +1,15 @@
-header {
+.shop {
     background-color: rgb(110, 21, 110);
     color:aliceblue;
     text-align: center;
 }
 
-main {
+.chunk {
     background-color: lightgray;
     padding: 1em;
 }
 
-html {
+.webpage {
     background-image: url(record.png);
     background-repeat: repeat;
 }
